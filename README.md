@@ -1,12 +1,24 @@
 # Belly-Button-Challenge
 
+# Files
+
+### Original Source Files
+
+[Module 14 Challenge Files](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/Starter_Code.zip)
+
+### Solved Files
+
+[Belly Button JavaScript File .js](https://github.com/BryanCarney/Belly-Button-Challenge/blob/main/static/js/app.js)
+
+[HTML File](https://github.com/BryanCarney/Belly-Button-Challenge/blob/main/index.html)
+
 ### Background
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ### Instructions
 
-Complete the following steps:
+**Complete the following steps:**
 
 1. Use the D3 library to read in `samples.json` from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
 
@@ -46,7 +58,7 @@ Complete the following steps:
 
 ![image](https://github.com/user-attachments/assets/086148e3-f87e-47dd-a981-6c4bb3249425)
 
-6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough `README.md` file
 
     •Note: If you haven't covered GitHub Pages yet in class (as this will be introduced in Class 15.3), don't worry! As long as the finalized code is in your GitHub repository, deploying it can be done in just a few clicks. Focus on completing your app and making regular commits for now. We'll walk through the easy deployment process together in class.
 
